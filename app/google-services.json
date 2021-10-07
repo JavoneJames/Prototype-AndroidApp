@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "5296403313",
+    "project_id": "pay-stripe-b8b87",
+    "storage_bucket": "pay-stripe-b8b87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5296403313:android:ee6fb0e5d02e22f970fcd0",
+        "android_client_info": {
+          "package_name": "com.ce301.billcoverprototype"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5296403313-lptdvaqodev1pam34fmtqjqe50ahrlcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9eninovNTay18JVH9vZ-4BbPM9MrmNZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5296403313-lptdvaqodev1pam34fmtqjqe50ahrlcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

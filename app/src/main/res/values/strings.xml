@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BillCover</string>
+    <string name="are_you_not_a_member">Are you not a member?</string>
+    <string name="loginButton">LOGIN</string>
+    <string name="passwordTextField">PASSWORD</string>
+    <string name="usernameTextField">USERNAME</string>
+    <string name="registerText">REGISTER</string>
+    <string name="forgotten_password">Forgotten password?</string>
+    <string name="email">EMAIL</string>
+    <string name="are_you_already_a_member">Are you already a member?</string>
+    <string name="create_your_account">create your account</string>
+</resources>

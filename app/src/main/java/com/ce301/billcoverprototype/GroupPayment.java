@@ -1,0 +1,1 @@
+package com.ce301.billcoverprototype;public class GroupPayment {    public int totalAmount;    public int remainAmount;    public String addMemberId;    public GroupPayment(int totalAmount, int remainAmount, String addMemberId) {        this.totalAmount = totalAmount;        this.remainAmount = remainAmount;        this.addMemberId = addMemberId;    }}
